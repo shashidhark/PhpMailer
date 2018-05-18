@@ -7,3 +7,10 @@ vendor/
 *.pem
 composer.lock
 .php_cs.cache
+.github
+.phan
+.gitattributes
+.php_cs
+.scruitinizer.yml
+.travis.yml
+.gitignore
